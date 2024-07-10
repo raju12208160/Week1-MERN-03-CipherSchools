@@ -1,0 +1,11 @@
+GIT COMMAND Class-4
+
+git checkout TRACK_ID (to switch b/w specific point of commits)
+
+git revert  (revert to some point of time, commit history will not be lost )
+
+git reset TRACK_ID --hard/--soft FLAGS 
+
+git checkout -b BRANCH_NAME (create and move to the branch)
+
+git checkout BRANCH_NAME (to move to a branch)
