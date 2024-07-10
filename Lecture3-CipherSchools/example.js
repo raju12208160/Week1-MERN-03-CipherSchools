@@ -1,3 +1,3 @@
-console.log("heeloe");
+console.log("hello");
 
 //checkout
